@@ -11,7 +11,8 @@ let arrCars = ['cars1','cars2','cars3', 'cars4'];
 let carToString = arrCars.toString(arrCars);
 let reverse = carToString.split(',');
 console.log(carToString);
-console.log(reverse); 
+console.log(reverse);
+ 
 //3 Дан массив имен ваших знакомых, добавить к каждому элементу массива слова hello
 
 let friends = ['Mark', 'Dima', 'Nikita', 'Vnk'];
